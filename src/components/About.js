@@ -8,7 +8,7 @@ const About = () => {
                 About Me
             </Typography>
             <Typography variant="body1">
-                Hi, I'm Moulana, a passionate software developer with expertise in React.js, ASP.NET Core, and cloud computing. I love building innovative solutions and delivering high-quality software.
+                Hi, I'm Moulana Shaik, a passionate software developer with expertise in React.js, ASP.NET Core, and cloud computing. I love building innovative solutions and delivering high-quality software.
             </Typography>
         </Paper>
     );
