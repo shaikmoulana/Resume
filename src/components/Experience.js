@@ -10,7 +10,7 @@ const Experience = () => {
             <Box>
                 <Typography variant="h6">Software Trainee - Miracle Software Systems</Typography>
                 <Typography variant="body2" color="text.secondary">
-                    Feb 2024 - Present
+                    October, 2023 - Present
                 </Typography>
                 <Typography variant="body1">
                     - Developed web applications using React.js and ASP.NET Core.<br />
